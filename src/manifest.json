@@ -1,0 +1,22 @@
+{
+  "name": "trainalytics-webapp-preact-md",
+  "short_name": "trainalytics-webapp-preact-md",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#fff",
+  "theme_color": "#673ab8",
+  "version": "0.0.1",
+  "icons": [
+    {
+      "src": "/assets/icons/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/icons/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
